@@ -121,22 +121,9 @@ Welche Aussage beschreibt den Zweck des DigCompEdu CheckIn-Tools am besten?
 
 ---
 
-<!-- Illustration Modul 1 – Stil A: Flat-Design Comic
-     BILDANWEISUNG FÜR ILLUSTRATOR*IN:
-     Szene: Eine Lehrkraft (weiblich, ca. 35 Jahre, diverse Erscheinung) steht vor einem
-     großen leuchtenden Bildschirm, auf dem ein Hexagon mit sechs farbigen Feldern
-     (das DigCompEdu-Logo) erscheint. Sie hält ein Klemmbrett und lächelt nachdenklich.
-     Daneben eine Sprechblase: „Wo fange ich an?"
-     Stil: Klare Konturlinien, flächige Farben (Blau, Türkis, Weiß, Hellgrau),
-     kein Schattenwurf, modernes Icon-Design. Querformat 16:9, Hintergrund hellgrau.
-     Bildunterschrift: „Der erste Schritt beginnt mit einer ehrlichen Bestandsaufnahme."
--->
+## Modul 1: Entstehung und Einbettung des DigCompEdu
 
 ![Illustration Modul 1: Eine Lehrkraft betrachtet nachdenklich das DigCompEdu-Hexagon auf einem Bildschirm und fragt sich, wo sie auf ihrer digitalen Lernreise steht. Flat-Design Comic-Stil, klare Linien, helle Farben.](modul1_flat.png "Modul 1 – Einstieg in den DigCompEdu-Rahmen")
-
----
-
-## Modul 1: Entstehung und Einbettung des DigCompEdu
 
 ### 1.1 Europäischer Kontext: Warum ein Rahmen für Lehrende?
 
@@ -236,23 +223,11 @@ Der vorliegende Kurs liefert das vertiefte Wissen für diesen Abschnitt und mach
 
 ---
 
-<!-- Illustration Modul 2 – Stil B: Warmherzig-pädagogischer Comic-Stil
-     BILDANWEISUNG FÜR ILLUSTRATOR*IN:
-     Szene: Ein kleines Kollegium (3–4 Lehrkräfte, divers in Alter, Geschlecht und Herkunft)
-     sitzt zusammen an einem runden Tisch. Auf dem Tisch liegt ein großes aufgefaltetes
-     Plakat mit sechs bunten Feldern (Bereiche 1–6). Eine Person deutet mit dem Finger
-     auf Bereich 3 (Lehren & Lernen), eine andere nickt zustimmend, eine dritte macht
-     sich Notizen. Auf dem Tisch stehen Kaffeebecher und ein Laptop.
-     Stil: Warme Farben (Orange, Gelb, Grün, Hellblau), weiche Konturen, freundliche
-     Gesichtsausdrücke, leicht cartoonhaft. Querformat 16:9, Hintergrund warm-beige.
-     Bildunterschrift: „Sechs Bereiche – ein gemeinsames Bild digitaler Lehrkompetenzen."
--->
-
-![Illustration Modul 2: Ein diverses Lehrerkollegium sitzt zusammen und erkundet gemeinsam die sechs Kompetenzbereiche des DigCompEdu auf einem bunten Plakat. Warmherziger Comic-Stil mit weichen Konturen und lebhaften Farben.](modul2_flat.png "Modul 2 – Die sechs Kompetenzbereiche gemeinsam entdecken")
-
 ---
 
 ## Modul 2: Die sechs Kompetenzbereiche des DigCompEdu
+
+![Illustration Modul 2: Ein diverses Lehrerkollegium sitzt zusammen und erkundet gemeinsam die sechs Kompetenzbereiche des DigCompEdu auf einem bunten Plakat. Warmherziger Comic-Stil mit weichen Konturen und lebhaften Farben.](modul2_flat.png "Modul 2 – Die sechs Kompetenzbereiche gemeinsam entdecken")
 
 ### Überblick: Das Hexagon der digitalen Lehrkompetenzen
 
@@ -484,25 +459,11 @@ Bereich 6 schließt den Kreis: Lehrende befähigen Lernende, **selbst digital ko
 
 ---
 
-<!-- Illustration Modul 3 – Stil A: Flat-Design Comic
-     BILDANWEISUNG FÜR ILLUSTRATOR*IN:
-     Szene: Eine Treppe mit sechs Stufen, von links unten nach rechts oben aufsteigend.
-     Auf jeder Stufe steht ein kleines Icon-Männchen/Frauchen in verschiedenen Posen:
-     Stufe 1 (A1): zögernd, schaut auf ein Tablet. Stufe 2 (A2): neugierig, tippt.
-     Stufe 3 (B1): selbstsicher, zeigt auf Whiteboard. Stufe 4 (B2): kreativ, mehrere
-     Fenster offen. Stufe 5 (C1): gibt etwas an Kollegin weiter. Stufe 6 (C2): steht
-     ganz oben, hält eine Glühbirne als Symbol für Innovation.
-     Über jeder Stufe ein kleines Label: A1 Einsteiger*in bis C2 Vorreiter*in.
-     Stil: Klare Linien, flächige Primärfarben (Blau-Abstufungen von hell zu dunkel),
-     minimalistisch, keine Hintergrundelemente. Querformat 16:9, weißer Hintergrund.
-     Bildunterschrift: „Digitale Kompetenz wächst – Stufe für Stufe."
--->
-
-![Illustration Modul 3: Eine sechsstufige Treppe symbolisiert die DigCompEdu-Niveaustufen A1 bis C2. Auf jeder Stufe steht eine Figur in einer anderen Entwicklungsphase – von zögernd bis innovativ. Flat-Design Comic-Stil, Blau-Abstufungen.](modul3_flat.png "Modul 3 – Von A1 bis C2: Die Stufen digitaler Kompetenz")
-
 ---
 
 ## Modul 3: Die sechs Niveaustufen und das Progressionsmodell
+
+![Illustration Modul 3: Eine sechsstufige Treppe symbolisiert die DigCompEdu-Niveaustufen A1 bis C2. Auf jeder Stufe steht eine Figur in einer anderen Entwicklungsphase – von zögernd bis innovativ. Flat-Design Comic-Stil, Blau-Abstufungen.](modul3_flat.png "Modul 3 – Von A1 bis C2: Die Stufen digitaler Kompetenz")
 
 ### 3.1 Vom Einsteiger zum Vorreiter: Das Stufenmodell
 
@@ -607,23 +568,11 @@ Die Progression ist **bereichsspezifisch**: Eine Lehrkraft kann in Bereich 3 (Le
 
 ---
 
-<!-- Illustration Modul 4 – Stil B: Warmherzig-pädagogischer Comic-Stil
-     BILDANWEISUNG FÜR ILLUSTRATOR*IN:
-     Szene: Eine Schulleitung (männlich, ca. 50 Jahre, Brille, freundliches Auftreten)
-     steht vor einer Gruppe von ca. fünf Lehrkräften in einem hellen Lehrerzimmer.
-     Er zeigt auf eine Wandtafel, auf der ein vereinfachtes DigCompEdu-Raster zu sehen
-     ist. Mehrere Lehrkräfte halten Post-its mit Notizen, eine lacht, eine macht sich
-     Notizen auf dem Laptop. Auf dem Tisch stehen ein Tablet und Kaffeebecher.
-     Stil: Warme Erdtöne (Terrakotta, Senfgelb, Hellgrün, Cremeweiß), weiche Linien,
-     Szene wirkt einladend und kollegial. Querformat 16:9, heller Innenraum-Hintergrund.
-     Bildunterschrift: „DigCompEdu als Gespräch – nicht als Checkliste."
--->
-
-![Illustration Modul 4: Eine Schulleitung moderiert eine Kollegiumsrunde, bei der gemeinsam ein DigCompEdu-Raster auf einer Wandtafel besprochen wird. Warmherziger Comic-Stil, kollegiale Atmosphäre, warme Erdtöne.](modul4_flat.png "Modul 4 – DigCompEdu als Führungs- und Planungsinstrument")
-
 ---
 
 ## Modul 4: DigCompEdu im schulischen Alltag
+
+![Illustration Modul 4: Eine Schulleitung moderiert eine Kollegiumsrunde, bei der gemeinsam ein DigCompEdu-Raster auf einer Wandtafel besprochen wird. Warmherziger Comic-Stil, kollegiale Atmosphäre, warme Erdtöne.](modul4_flat.png "Modul 4 – DigCompEdu als Führungs- und Planungsinstrument")
 
 ### 4.1 DigCompEdu als Steuerungsinstrument für Schulleitungen
 
@@ -741,24 +690,11 @@ Ergänzend zum individuellen CheckIn bietet die Europäische Kommission das **SE
 
 ---
 
-<!-- Illustration Modul 5 – Stil A: Flat-Design Comic
-     BILDANWEISUNG FÜR ILLUSTRATOR*IN:
-     Szene: Drei ineinandergreifende Zahnräder, die miteinander rotieren. Das größte
-     Zahnrad trägt die Aufschrift „Schule als Organisation", das mittlere „Kollegium als
-     Lerngemeinschaft", das kleinste „Individuum & DigCompEdu". Jedes Zahnrad ist in
-     einer anderen Farbe (Blau, Türkis, Orange). Um die Zahnräder herum umlaufende
-     Pfeile, die Kreisbewegung und gegenseitige Abhängigkeit symbolisieren.
-     Oben rechts ein kleines Icon: Glühbirne auf Buchrücken = Wissen trifft Praxis.
-     Stil: Klare Vektorlinien, flächige Farben, keine Schattierung, technisch-sauber.
-     Querformat 16:9, Hintergrund dunkelblau mit hellen Elementen (Kontrast).
-     Bildunterschrift: „Individuum, Kollegium und Organisation – drei Ebenen, ein Ziel."
--->
-
-![Illustration Modul 5: Drei ineinandergreifende Zahnräder symbolisieren die drei Ebenen des digitalen Wandels – Individuum (DigCompEdu), Kollegium (PLCs) und Schule als lernende Organisation. Flat-Design Comic-Stil, kontrastreiche Farben auf dunklem Hintergrund.](modul5_flat.png "Modul 5 – DigCompEdu im System der lernenden Organisation")
-
 ---
 
 ## Modul 5: DigCompEdu und die lernende Organisation
+
+![Illustration Modul 5: Drei ineinandergreifende Zahnräder symbolisieren die drei Ebenen des digitalen Wandels – Individuum (DigCompEdu), Kollegium (PLCs) und Schule als lernende Organisation. Flat-Design Comic-Stil, kontrastreiche Farben auf dunklem Hintergrund.](modul5_flat.png "Modul 5 – DigCompEdu im System der lernenden Organisation")
 
 ### 5.1 Der Zusammenhang: DigCompEdu im Systemkontext
 
@@ -858,25 +794,11 @@ Bezug zu Kap. 3.3 des Buchprojekts:
 
 ---
 
-<!-- Illustration Abschluss – Stil B: Warmherzig-pädagogischer Comic-Stil
-     BILDANWEISUNG FÜR ILLUSTRATOR*IN:
-     Szene: Eine Lehrkraft (geschlechtsneutral, ca. 40 Jahre, diverse Erscheinung) sitzt
-     an einem Schreibtisch vor einem geöffneten Notizbuch. Auf dem Tisch liegt ein
-     ausgedrucktes SELFIEforTEACHERS-Ergebnis, daneben ein Tablet mit dem DigCompEdu-
-     Hexagon. Die Person schreibt sichtbar drei Stichpunkte unter die Überschrift
-     „Meine nächsten Schritte:". Durch das Fenster im Hintergrund sieht man ein
-     Schulgebäude in warmem Abendlicht. Ein kleiner Schmetterling auf dem Fensterbrett
-     symbolisiert Transformation.
-     Stil: Warme Farben (Goldengelb, Hellgrün, Cremeweiß, sanftes Orange), weiche Linien,
-     intime Atmosphäre, einladend und motivierend. Querformat 16:9.
-     Bildunterschrift: „Das Ende dieses Kurses ist der Beginn Ihres nächsten Schritts."
--->
-
-![Illustration Abschluss: Eine Lehrkraft sitzt an ihrem Schreibtisch, betrachtet ihr SELFIEforTEACHERS-Ergebnis und schreibt ihre nächsten Entwicklungsschritte in ein Notizbuch. Warmherziger Comic-Stil, goldenes Abendlicht, symbolischer Schmetterling für Transformation.](modul6_flat.png "Abschluss – Reflexion und Transfer: Jetzt liegt der nächste Schritt bei Ihnen")
-
 ---
 
 ## Abschluss: Gesamtreflexion und Transfer
+
+![Illustration Abschluss: Eine Lehrkraft sitzt an ihrem Schreibtisch, betrachtet ihr SELFIEforTEACHERS-Ergebnis und schreibt ihre nächsten Entwicklungsschritte in ein Notizbuch. Warmherziger Comic-Stil, goldenes Abendlicht, symbolischer Schmetterling für Transformation.](modul6_flat.png "Abschluss – Reflexion und Transfer: Jetzt liegt der nächste Schritt bei Ihnen")
 
 ### Rückblick auf Ihren Lernweg
 
