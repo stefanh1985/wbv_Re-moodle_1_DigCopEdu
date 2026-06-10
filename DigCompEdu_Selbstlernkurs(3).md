@@ -19,9 +19,6 @@ link: https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&
 # DigCompEdu: Europäischer Rahmen für die Digitale Kompetenz von Lehrenden
 
 > **Ein Selbstlernkurs für Schulleitungen und Lehrkräfte an Fachschulen für Sozialwesen und anderen Berufsschulen sowie Lehramtsstudierende und Referendar\*innen**
->
-> *Dieser Kurs ist Teil des Buchprojekts „Digitalisierte Erzieher\_innenausbildung" und ergänzt Kapitel 3.1 (Das digitale Kollegium) im Abschnitt über mediale und digitaldidaktische Kompetenz.*
-
 ---
 
 ## 📋 Kursübersicht
