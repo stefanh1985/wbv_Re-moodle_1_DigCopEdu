@@ -20,6 +20,7 @@ link: https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&
 
 > **Ein Selbstlernkurs für Schulleitungen und Lehrkräfte an Fachschulen für Sozialwesen und anderen Berufsschulen sowie Lehramtsstudierende und Referendar\*innen**
 >
+> *Dieser Kurs ist Teil des Buchprojekts „Digitalisierte Erzieher\_innenausbildung" und ergänzt Kapitel 3.1 (Das digitale Kollegium) im Abschnitt über mediale und digitaldidaktische Kompetenz.*
 
 ---
 
@@ -971,10 +972,4 @@ Senge, P. (1996). *Die fünfte Disziplin: Kunst und Praxis der lernenden Organis
 Vuorikari, R., Kluzer, S. & Punie, Y. (2022). *DigComp 2.2: The digital competence framework for citizens: With new examples of knowledge, skills and attitudes*. Publications Office of the European Union. https://data.europa.eu/doi/10.2760/115376
 
 ---
-
-> **Hinweis zu diesem Kurs:**
->
-> Dieser Selbstlernkurs wurde als ergänzendes Materialangebot zum Buchprojekt „Digitalisierte Erzieher\_innenausbildung" (Kern 2025) entwickelt. Er kann im LiaScript-Format in Moodle oder anderen offenen Lernplattformen eingesetzt werden. Alle verlinkten Ressourcen waren zum Zeitpunkt der Erstellung (Juni 2026) zugänglich.
->
-> **Lizenz:** CC BY-SA 4.0 – Namensnennung, Weitergabe unter gleichen Bedingungen
 
