@@ -1,9 +1,9 @@
 <!--
-author: Stefan Kern / Pädagogika Fachschule für Sozialpädagogik
+author: Stefan Hierholzer
 email: 
 version: 1.0
 language: de
-narrator: German Female
+narrator: German Male
 
 comment: Selbstlernkurs DigCompEdu – Europäischer Rahmen für die Digitale Kompetenz von Lehrenden.
          Für Schulleitungen und Lehrkräfte an Fachschulen für Sozialwesen und anderen Berufsschulen
@@ -20,7 +20,6 @@ link: https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&
 
 > **Ein Selbstlernkurs für Schulleitungen und Lehrkräfte an Fachschulen für Sozialwesen und anderen Berufsschulen sowie Lehramtsstudierende und Referendar\*innen**
 >
-> *Dieser Kurs ist Teil des Buchprojekts „Digitalisierte Erzieher\_innenausbildung" und ergänzt Kapitel 3.1 (Das digitale Kollegium) im Abschnitt über mediale und digitaldidaktische Kompetenz.*
 
 ---
 
@@ -135,7 +134,7 @@ Welche Aussage beschreibt den Zweck des DigCompEdu CheckIn-Tools am besten?
      Bildunterschrift: „Der erste Schritt beginnt mit einer ehrlichen Bestandsaufnahme."
 -->
 
-![Illustration Modul 1: Eine Lehrkraft betrachtet nachdenklich das DigCompEdu-Hexagon auf einem Bildschirm und fragt sich, wo sie auf ihrer digitalen Lernreise steht. Flat-Design Comic-Stil, klare Linien, helle Farben.](bitte_hier_illustration_modul1_flat_einfuegen.png "Modul 1 – Einstieg in den DigCompEdu-Rahmen")
+![Illustration Modul 1: Eine Lehrkraft betrachtet nachdenklich das DigCompEdu-Hexagon auf einem Bildschirm und fragt sich, wo sie auf ihrer digitalen Lernreise steht. Flat-Design Comic-Stil, klare Linien, helle Farben.](modul1_flat.png "Modul 1 – Einstieg in den DigCompEdu-Rahmen")
 
 ---
 
@@ -251,7 +250,7 @@ Der vorliegende Kurs liefert das vertiefte Wissen für diesen Abschnitt und mach
      Bildunterschrift: „Sechs Bereiche – ein gemeinsames Bild digitaler Lehrkompetenzen."
 -->
 
-![Illustration Modul 2: Ein diverses Lehrerkollegium sitzt zusammen und erkundet gemeinsam die sechs Kompetenzbereiche des DigCompEdu auf einem bunten Plakat. Warmherziger Comic-Stil mit weichen Konturen und lebhaften Farben.](bitte_hier_illustration_modul2_warm_einfuegen.png "Modul 2 – Die sechs Kompetenzbereiche gemeinsam entdecken")
+![Illustration Modul 2: Ein diverses Lehrerkollegium sitzt zusammen und erkundet gemeinsam die sechs Kompetenzbereiche des DigCompEdu auf einem bunten Plakat. Warmherziger Comic-Stil mit weichen Konturen und lebhaften Farben.](modul2_flat.png "Modul 2 – Die sechs Kompetenzbereiche gemeinsam entdecken")
 
 ---
 
@@ -501,7 +500,7 @@ Bereich 6 schließt den Kreis: Lehrende befähigen Lernende, **selbst digital ko
      Bildunterschrift: „Digitale Kompetenz wächst – Stufe für Stufe."
 -->
 
-![Illustration Modul 3: Eine sechsstufige Treppe symbolisiert die DigCompEdu-Niveaustufen A1 bis C2. Auf jeder Stufe steht eine Figur in einer anderen Entwicklungsphase – von zögernd bis innovativ. Flat-Design Comic-Stil, Blau-Abstufungen.](bitte_hier_illustration_modul3_flat_einfuegen.png "Modul 3 – Von A1 bis C2: Die Stufen digitaler Kompetenz")
+![Illustration Modul 3: Eine sechsstufige Treppe symbolisiert die DigCompEdu-Niveaustufen A1 bis C2. Auf jeder Stufe steht eine Figur in einer anderen Entwicklungsphase – von zögernd bis innovativ. Flat-Design Comic-Stil, Blau-Abstufungen.](modul3_flat.png "Modul 3 – Von A1 bis C2: Die Stufen digitaler Kompetenz")
 
 ---
 
@@ -622,7 +621,7 @@ Die Progression ist **bereichsspezifisch**: Eine Lehrkraft kann in Bereich 3 (Le
      Bildunterschrift: „DigCompEdu als Gespräch – nicht als Checkliste."
 -->
 
-![Illustration Modul 4: Eine Schulleitung moderiert eine Kollegiumsrunde, bei der gemeinsam ein DigCompEdu-Raster auf einer Wandtafel besprochen wird. Warmherziger Comic-Stil, kollegiale Atmosphäre, warme Erdtöne.](bitte_hier_illustration_modul4_warm_einfuegen.png "Modul 4 – DigCompEdu als Führungs- und Planungsinstrument")
+![Illustration Modul 4: Eine Schulleitung moderiert eine Kollegiumsrunde, bei der gemeinsam ein DigCompEdu-Raster auf einer Wandtafel besprochen wird. Warmherziger Comic-Stil, kollegiale Atmosphäre, warme Erdtöne.](modul4_flat.png "Modul 4 – DigCompEdu als Führungs- und Planungsinstrument")
 
 ---
 
@@ -757,7 +756,7 @@ Ergänzend zum individuellen CheckIn bietet die Europäische Kommission das **SE
      Bildunterschrift: „Individuum, Kollegium und Organisation – drei Ebenen, ein Ziel."
 -->
 
-![Illustration Modul 5: Drei ineinandergreifende Zahnräder symbolisieren die drei Ebenen des digitalen Wandels – Individuum (DigCompEdu), Kollegium (PLCs) und Schule als lernende Organisation. Flat-Design Comic-Stil, kontrastreiche Farben auf dunklem Hintergrund.](bitte_hier_illustration_modul5_flat_einfuegen.png "Modul 5 – DigCompEdu im System der lernenden Organisation")
+![Illustration Modul 5: Drei ineinandergreifende Zahnräder symbolisieren die drei Ebenen des digitalen Wandels – Individuum (DigCompEdu), Kollegium (PLCs) und Schule als lernende Organisation. Flat-Design Comic-Stil, kontrastreiche Farben auf dunklem Hintergrund.](modul5_flat.png "Modul 5 – DigCompEdu im System der lernenden Organisation")
 
 ---
 
@@ -875,7 +874,7 @@ Bezug zu Kap. 3.3 des Buchprojekts:
      Bildunterschrift: „Das Ende dieses Kurses ist der Beginn Ihres nächsten Schritts."
 -->
 
-![Illustration Abschluss: Eine Lehrkraft sitzt an ihrem Schreibtisch, betrachtet ihr SELFIEforTEACHERS-Ergebnis und schreibt ihre nächsten Entwicklungsschritte in ein Notizbuch. Warmherziger Comic-Stil, goldenes Abendlicht, symbolischer Schmetterling für Transformation.](bitte_hier_illustration_abschluss_warm_einfuegen.png "Abschluss – Reflexion und Transfer: Jetzt liegt der nächste Schritt bei Ihnen")
+![Illustration Abschluss: Eine Lehrkraft sitzt an ihrem Schreibtisch, betrachtet ihr SELFIEforTEACHERS-Ergebnis und schreibt ihre nächsten Entwicklungsschritte in ein Notizbuch. Warmherziger Comic-Stil, goldenes Abendlicht, symbolischer Schmetterling für Transformation.](modul6_flat.png "Abschluss – Reflexion und Transfer: Jetzt liegt der nächste Schritt bei Ihnen")
 
 ---
 
